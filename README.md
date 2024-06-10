@@ -15,6 +15,10 @@ Dashboard: Get suggestions for places, view notifications, and access quick redi
 Booking: Store and manage tickets for various events, flights, and accommodation bookings.
 PlannerHub is designed to streamline the planning process, ensuring that everyone can participate and enjoy the event without the hassle of conflicting schedules.
 
+
+https://github.com/SebastianK2000/PlannerHub/assets/127401994/66604e28-3810-49fe-98eb-3dbb3991d929
+
+
 Few screen with Figma:
 
 
