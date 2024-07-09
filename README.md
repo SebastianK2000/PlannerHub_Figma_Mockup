@@ -1,6 +1,5 @@
 # PlannerHub
 
-
 Link to project in Figma - https://www.figma.com/design/M0S4UezDlflHdhp63OEEOA/PlannerHub?node-id=0-1&t=w1VyufC7jC8O3s1T-1
 
 
